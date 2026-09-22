@@ -106,14 +106,6 @@ Seguir aprendiendo programación, construir proyectos cada vez más completos y 
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarfiabrian&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarfiabrian&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🟢 Estado actual
 
 **Aprendiendo y construyendo 🚀**
