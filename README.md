@@ -74,6 +74,10 @@ Repositorio donde documento mi recorrido de aprendizaje, ejercicios y proyectos.
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarfiabrian&show_icons=true&theme=tokyonight&hide_border=true)
+
 ## 🎯 Mi objetivo
 
 Seguir aprendiendo programación, construir proyectos cada vez más completos y desarrollar las habilidades necesarias para trabajar en el mundo del software y realizar proyectos freelance.
