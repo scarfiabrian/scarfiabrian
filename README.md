@@ -76,9 +76,7 @@ Repositorio donde documento mi recorrido de aprendizaje, ejercicios y proyectos.
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarfiabrian&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarfiabrian&layout=compact&theme=tokyonight&hide_border=true)
+🔧 Estadísticas y progreso en construcción...
 
 ## 🎯 Mi objetivo
 
