@@ -64,7 +64,6 @@ Actualmente estoy trabajando con:
 
 ---
 
-## 📂 Proyectos
 
 ## 📂 Proyectos
 
