@@ -66,11 +66,32 @@ Actualmente estoy trabajando con:
 
 ## 📂 Proyectos
 
+## 📂 Proyectos
+
+### 🧑‍💻 Sistema de Gestión de Clientes
+
+Proyecto web que estoy desarrollando como parte de mi aprendizaje en programación.
+
+El objetivo es crear un sistema que permita gestionar clientes mediante una interfaz web, aplicando progresivamente diferentes tecnologías y conceptos de desarrollo.
+
+#### 🛠️ Tecnologías utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Estado:** 🟡 En desarrollo
+
+---
+
 ### 📚 Aprendiendo Programación
 
-Repositorio donde documento mi recorrido de aprendizaje, ejercicios y proyectos.
+Repositorio donde documento mi recorrido de aprendizaje, ejercicios, prácticas y proyectos.
 
 👉 [Ver repositorio](https://github.com/scarfiabrian/aprendiendo-programacion)
+
+**Estado:** 🟢 Activo
 
 ---
 
